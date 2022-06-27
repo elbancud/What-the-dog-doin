@@ -5,12 +5,14 @@ This is to properly document my progress and with a formal road map completion. 
 
 # Scope
 
+```
 The scope of this project may vary from my laziness. Most likely heres what I am trying to implement:
 [ ] Form Validation
 [ ] Prisma for ORM
 [ ] Useswr
 [ ] Db (unknown)
 [ ] Tailwind
+```
 
 # When cloning which I suggest you don't
 
